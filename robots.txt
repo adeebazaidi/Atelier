@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Atelys.vercel.app/sitemap.xml
